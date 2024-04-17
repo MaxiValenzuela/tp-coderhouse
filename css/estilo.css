@@ -490,7 +490,7 @@ min-height: 5%;
     height: 400px;
     object-fit: cover;
     transition: 1s;
-    filter: blur(2px);
+    filter: blur(3px);
 }
 
 .product img:hover {
