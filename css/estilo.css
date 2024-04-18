@@ -20,30 +20,23 @@ header{
     top: 0;
     z-index: 4;
     width: 100%;
-    border: 4px solid #000000ca;
+    border: 2px solid #000000ca;
 }
 
 /*Logo*/
 
 .logo {
-    width: 70px;
+    width: 40px;
     display: flex;
     justify-content: space-between;
     align-self: center;
-    margin: 10px;
-    
-    
+    margin: 10px;    
 }
 
 /*nav bar*/ 
 
-.nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 70px;
+.container-fluid {
     background-color: #c1670d;
-    
 }
 
 .nav-list {
