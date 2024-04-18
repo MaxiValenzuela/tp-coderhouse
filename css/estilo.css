@@ -353,7 +353,7 @@ min-height: 5%;
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Workbench&display=swap');
 
-.Titulo{
+.titulo{
     font-size: 40px;
     color:rgb(255, 255, 255);
     font-family: "Arvo", serif;
@@ -384,7 +384,7 @@ min-height: 5%;
     min-width: 5%;
 }
 
-.Unreal{
+.unreal{
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -395,7 +395,7 @@ min-height: 5%;
 }
 
 
-.Unreal2{
+.unreal2{
     width: 100%;
     height: 100%;
     display: flex;
