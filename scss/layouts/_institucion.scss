@@ -1,0 +1,18 @@
+.gps {
+    display: flex;
+    justify-content: center;
+}
+
+.tituloins {
+    padding: 50px;
+    margin: 20px;
+    border: 2px solid;
+    border-radius: 30px;
+    box-shadow: 9px 9px 5px rgba(0, 0, 0, 0.866);
+    transition: 1s;
+    
+}
+
+.tituloins:hover {
+    background-color: #cfcfcf16;
+}

@@ -1,0 +1,47 @@
+/* Responsive*/
+@media (max-width: 1020px)
+{
+    .nav-link {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        }
+        .nav{
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            
+        }
+        
+        .boton {
+            display: flex;
+            flex-direction: column;
+            max-width: 1000px;
+            min-width: 5%;
+        }
+        
+        .products {
+            display: flex;
+            flex-direction: column;
+            
+        }
+    
+        .unreal{
+            display: none;
+        }
+        
+        .unreal2 {
+            display: none;
+        }
+    
+        .gif {
+            display: none;
+            
+        }
+    
+        .box {
+            display: flex;
+            flex-direction: column;
+        }
+        
+    }

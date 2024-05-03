@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@font-face {
+    font-family: 'workbench';
+    src: url('../assets/Workbench-Regular-VariableFont_BLED\,SCAN.ttf');
+}
+
+/* Otra fuente */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Workbench&display=swap');
